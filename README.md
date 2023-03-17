@@ -1,6 +1,6 @@
 # getxutils
 
-A Flutter project using GetX Utilities.
+A Flutter project to implement GetX Utilities fundamentals.
 
 ## Getting Started
 
